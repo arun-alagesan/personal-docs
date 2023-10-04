@@ -1,0 +1,12 @@
+I have deep hands-on experience in the entire Software Development Life Cycle that includes system design, providing high level solution and implement the architecture on high scaled environments.
+
+I have developed micro apps DOTNET Core web and rest api with open api standards, full stack development with react js, next js, asp.net mvc and rdbms databases including MS SQL server, Postgres sql. 
+
+I have deep knowledge in server less architecture and have modernized and migrated standalone apps from on premise to micro services with. Net core and python and hosted in EC2, AWS lambda and Fargate container services.
+
+Though I have a long-time association with Microsoft products on application development, I have hands on experience in python and DevOps tool chains in Docker containers, Terraform and Jenkins CI CD pipelines. 
+
+Given my background I am open for opportunities in a mid-senior position as I have 18+ years of experience excluding my career breaks.
+
+
+An experienced IT professional, a diversified Solution Architect and a leader with deep hands-on, strong technical and business skills with ability to adopt new age IT platform. Effectively managed cross-functional teams and have the knowledge of legacy enterprise platform to design and implement solution for complex Information Systems for the organization needs. Have gained expert level knowledge in conceptualization, designing and guide development team to develop state of art application, best in class frameworks and reusable solutions. Have ability to demonstrate and build an effective team for quality code governance and quality assurance
